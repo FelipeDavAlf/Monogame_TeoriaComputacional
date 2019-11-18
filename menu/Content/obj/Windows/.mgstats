@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Background/castillo_pie.png","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Background/castillo_pie.xnb","TextureProcessor","Texture2DContent",5889,149549,0.2279105
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Background/marco.png","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Background/marco.xnb","TextureProcessor","Texture2DContent",224748,788053,0.2252423
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Controls/Button.png","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Controls/Button.xnb","TextureProcessor","Texture2DContent",324,25685,0.0200282
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Fonts/Font.spritefont","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Fonts/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2500017
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Fonts/History.spritefont","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Fonts/History.xnb","FontDescriptionProcessor","SpriteFontContent",2018,37905,0.465755
+"C:/Users/g/Documents/monogame/Menu/menu/Content/logo.jpg","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/logo.xnb","TextureProcessor","Texture2DContent",31057,1016797,0.685167
+"C:/Users/g/Documents/monogame/Menu/menu/Content/logo2.png","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/logo2.xnb","TextureProcessor","Texture2DContent",92495,657485,0.2802513
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Music/DanceOfPales.wav","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Music/DanceOfPales.xnb","SongProcessor","SongContent",29312052,130,1.781237
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Music/Festival.wav","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Music/Festival.xnb","SongProcessor","SongContent",13488180,126,0.9533772
+"C:/Users/g/Documents/monogame/Menu/menu/Content/Music/TheTragicPrince.wav","C:/Users/g/Documents/monogame/Menu/menu/Content/bin/Windows/Music/TheTragicPrince.xnb","SongProcessor","SongContent",30611508,133,1.67894
